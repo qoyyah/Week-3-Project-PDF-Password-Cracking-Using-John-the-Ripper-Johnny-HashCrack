@@ -1,4 +1,4 @@
-# Password-Cracking-Using-John-the-Ripper-Johnny-HashCrack, NW Hash calculator & NW PW cracker
+# Password Cracking Using John the Ripper, Johnny GUI, HashCrack, NW Hash calculator & NW PW cracker
 **W3-PM1 and W3-PM2  |  CYBERSECURITY  |  NETWORKWALKS**
 
 **Project: Password Cracking and Hash Analysis**
