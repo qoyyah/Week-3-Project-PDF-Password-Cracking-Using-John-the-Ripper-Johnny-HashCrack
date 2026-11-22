@@ -231,4 +231,19 @@ Most importantly, the exercise demonstrated how weak or predictable passwords ca
 The experience strengthened my problem-solving skills, technical documentation abilities and understanding of password-related cybersecurity risks.
 
 **12. Evidence and Screenshots**
+#
+<img width="1065" height="487" alt="john exe" src="https://github.com/user-attachments/assets/63f769b0-d8b2-4f10-bc73-0a820eb0dbc8" />
+
+<img width="590" height="188" alt="benchmarking result" src="https://github.com/user-attachments/assets/e8e7a34b-b922-4b34-8826-c65ff233a63f" />
+
+<img width="1402" height="724" alt="johnny detect john ripper" src="https://github.com/user-attachments/assets/544cb15d-0480-4554-9b0d-a61f36b56132" />
+
+<img width="1339" height="657" alt="worldlist config" src="https://github.com/user-attachments/assets/44196015-6ed1-43a0-824c-322e5ab5f3cd" />
+
+<img width="1410" height="738" alt="suc PW result 1" src="https://github.com/user-attachments/assets/e6cb7f85-a624-4e6f-a723-735ba7e50d45" />
+
+<img width="1018" height="489" alt="result 1" src="https://github.com/user-attachments/assets/66948189-d084-4fd6-9ad7-c3221b266641" />
+
+
+
 
