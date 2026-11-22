@@ -60,7 +60,7 @@ Johnny successfully detected the installed John the Ripper version, confirming t
 #
 **5. Methodology and Implementation**
 
-**Task 1: Password Recovery for Three Protected PDF Files**
+1:1 **Task 1: Password Recovery for Three Protected PDF Files**
 
 The first task involved recovering passwords from three assigned password-protected PDF documents.
 
@@ -104,7 +104,7 @@ The recovered password was displayed in Johnny's Password column, demonstrating 
 
 I continued the assigned exercises to complete the password-recovery activities for the three PDF files.
 
-**6. Task 2: Password Recovery Using Networkwalks Hash Calculator and Password Cracker**
+1:2 **Task 2: Password Recovery Using Networkwalks Hash Calculator and Password Cracker**
 
 For the second part of my Week 3 assignment, I used the Networkwalks Hash Calculator and Password Cracker tools to perform another password-recovery exercise on one of the three previously assigned password-protected PDF documents.
 
@@ -161,7 +161,7 @@ This demonstrated how using an appropriate wordlist and an alternative password-
 **Result:** Password recovery exercise completed as instructed.
 #
 
-## 7. Project Results
+**6. Project Results**
 
 | Task | Tools Used | Result |
 |---|---|---|
@@ -171,7 +171,7 @@ This demonstrated how using an appropriate wordlist and an alternative password-
 | Repeat Exercise | Networkwalks Hash Calculator, Password Cracker, Alternative Tool (worldlist) | Password recovered |
 #
 
-**8. Challenges Encountered and Solutions**
+**7. Challenges Encountered and Solutions**
 
 **Challenge 1:** Locating the John the Ripper Executable
 After extracting John the Ripper, I initially had difficulty locating the john.exe executable.
@@ -191,8 +191,9 @@ When I initially loaded the PDF hash, Johnny displayed zero recovered passwords.
 I selected the password.lst file, configured the Wordlist attack mode, and restarted the attack.
 
 The tool subsequently recovered the password for the PDF being tested.
+#
 
-**9. Security Findings**
+**8. Security Findings**
 
 The practical exercise demonstrated several important password security concepts:
 
@@ -206,7 +207,7 @@ The practical exercise demonstrated several important password security concepts
 
 **_5. Document protection requires multiple safeguards:_** PDF passwords should be supported by appropriate access controls and secure document-handling practices.
 #
-**10. Security Recommendations**
+**9. Security Recommendations**
 
 Based on the exercise, I recommend the following practices:
 
@@ -218,7 +219,8 @@ Based on the exercise, I recommend the following practices:
 - Avoid sharing passwords through the same communication channel as protected documents.
 - Perform password security assessments only on authorized files and systems.
 #
-**11. Key Lessons Learned**
+
+**10. Key Lessons Learned**
 
 This project improved my practical understanding of password security and password-recovery techniques.
 
@@ -229,8 +231,9 @@ I also learned the importance of troubleshooting technical configurations before
 Most importantly, the exercise demonstrated how weak or predictable passwords can expose protected documents to unauthorized access.
 
 The experience strengthened my problem-solving skills, technical documentation abilities and understanding of password-related cybersecurity risks.
+#
 
-**12. Evidence and Screenshots**
+**11. Evidence and Screenshots**
 #
 <img width="1065" height="487" alt="john exe" src="https://github.com/user-attachments/assets/63f769b0-d8b2-4f10-bc73-0a820eb0dbc8" />
 
@@ -264,7 +267,7 @@ The experience strengthened my problem-solving skills, technical documentation a
 <img width="1432" height="769" alt="NW pw result" src="https://github.com/user-attachments/assets/9d2d5974-bc85-4eeb-b9a5-22b872bc5df2" />
 #
 
-**13. Conclusion**
+**12. Conclusion**
  
 Week 3 of my Networkwalks Cybersecurity & Ethical Hacking Internship provided valuable hands-on experience in PDF password cracking, hash extraction, and password security assessment.
 
@@ -272,7 +275,9 @@ By working with John the Ripper, Johnny, HashCrack, and the Networkwalks passwor
 
 The project also reinforced the importance of proper tool configuration, systematic troubleshooting, ethical cybersecurity practices, and clear technical reporting.
 #
-**Disclaimerr**
+
+**Disclaimer**
+
 All activities were performed as part of an authorized cybersecurity training exercise using assigned PDF documents.
 #
 
