@@ -240,10 +240,49 @@ The experience strengthened my problem-solving skills, technical documentation a
 
 <img width="1339" height="657" alt="worldlist config" src="https://github.com/user-attachments/assets/44196015-6ed1-43a0-824c-322e5ab5f3cd" />
 
+<img width="979" height="577" alt="hash result 1" src="https://github.com/user-attachments/assets/fb33ae3f-d094-48ca-8df2-527b16ba9d60" />
+
 <img width="1410" height="738" alt="suc PW result 1" src="https://github.com/user-attachments/assets/e6cb7f85-a624-4e6f-a723-735ba7e50d45" />
 
 <img width="1018" height="489" alt="result 1" src="https://github.com/user-attachments/assets/66948189-d084-4fd6-9ad7-c3221b266641" />
 
+<img width="991" height="619" alt="hash result 2" src="https://github.com/user-attachments/assets/1531fcfb-7463-4729-ba72-30abff08c72d" />
 
 
+<img width="1378" height="612" alt="suc PW result 2" src="https://github.com/user-attachments/assets/0ec98a65-093f-4122-96fe-30727cc723a4" />
+
+<img width="867" height="846" alt="result 2" src="https://github.com/user-attachments/assets/bbc92507-2378-41fe-8a8e-4be776d00046" />
+
+<img width="997" height="618" alt="hash result 3" src="https://github.com/user-attachments/assets/3252623c-d527-4e64-bbfd-edb3b2e76d8f" />
+
+<img width="1407" height="727" alt="suc PW result 3" src="https://github.com/user-attachments/assets/6613f923-61e5-4c94-932a-22747a990da3" />
+
+<img width="886" height="837" alt="result 3" src="https://github.com/user-attachments/assets/2c0f3c9f-f3c4-438d-bfcd-4adb0680e441" />
+
+<img width="1374" height="825" alt="NW hash result" src="https://github.com/user-attachments/assets/c1c441fe-6507-40d6-982f-26bfbfe7ed7a" />
+
+<img width="1432" height="769" alt="NW pw result" src="https://github.com/user-attachments/assets/9d2d5974-bc85-4eeb-b9a5-22b872bc5df2" />
+#
+
+**13. Conclusion**
+ 
+Week 3 of my Networkwalks Cybersecurity & Ethical Hacking Internship provided valuable hands-on experience in PDF password cracking, hash extraction, and password security assessment.
+
+By working with John the Ripper, Johnny, HashCrack, and the Networkwalks password-related tools, I gained a better understanding of how password recovery works and the security risks associated with weak passwords.
+
+The project also reinforced the importance of proper tool configuration, systematic troubleshooting, ethical cybersecurity practices, and clear technical reporting.
+#
+**Disclaimerr**
+All activities were performed as part of an authorized cybersecurity training exercise using assigned PDF documents.
+#
+
+👤 Author
+Rukayat Sodiq
+Cybersecurity Professional B084
+linkedin.com/in/alaorukayatifeoluwa
+
+----
+
+📌 **Project Information**
+**Program Name:** Cybersecurity program at Networkwalks | Week: 03 | Repository: GitHub
 
